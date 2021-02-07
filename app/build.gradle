@@ -21,7 +21,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "livedaitingchat.online.mem"
+        applicationId "test_livedaitingchat.online.mem"
         manifestPlaceholders = [
                 onesignal_app_id: '8956f274-94b2-4bc7-83bc-122a4cc111b4',
                 // Project number pulled from dashboard, local value is ignored.

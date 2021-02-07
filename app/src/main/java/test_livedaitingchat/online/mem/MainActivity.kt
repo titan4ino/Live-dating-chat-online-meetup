@@ -1,4 +1,4 @@
-package livedaitingchat.online.mem
+package test_livedaitingchat.online.mem
 
 import android.content.Intent
 import android.graphics.Paint

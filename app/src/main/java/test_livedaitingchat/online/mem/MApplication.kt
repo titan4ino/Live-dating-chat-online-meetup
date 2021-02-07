@@ -1,4 +1,4 @@
-package livedaitingchat.online.mem
+package test_livedaitingchat.online.mem
 
 import android.app.Application
 import com.onesignal.OneSignal
